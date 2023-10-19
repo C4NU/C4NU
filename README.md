@@ -21,9 +21,11 @@ Here are some ideas to get you started:
   - Paddie。
     - https://github.com/C4NU/WebP-Converter-GUI.git
     - 최신버전
-      - v3.0.0-stable
+      - v3.1.0-stable
     - 빌드시 필요 패키지
-      - PyQt6, Pillows, Pyinstaller 필요함.
+      - PyQt6
+      - Pillows (PIL)
+      - Pyinstaller
     - 기능
       - JPG, PNG, TIFF 등의 이미지 파일을 WebP로 변환해주는 기능
       - 사진의 EXIF 데이터를 입력받아 EXIF 데이터가 작성된 프레임을 씌워주는 기능

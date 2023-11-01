@@ -34,3 +34,6 @@ Here are some ideas to get you started:
     - https://github.com/C4NU/KimpBot.git
   - Hetzner Traffic Alert Bot
     - https://github.com/C4NU/Hetzner-Traffic-Alert-Bot.git
+- Validators
+  - Dymension
+    - https://github.com/C4NU/rollapp-registry    

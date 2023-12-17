@@ -31,11 +31,12 @@ Here are some ideas to get you started:
     - 기능
       - JPG, PNG, TIFF 등의 이미지 파일을 WebP로 변환해주는 기능
       - 사진의 EXIF 데이터를 입력받아 EXIF 데이터가 작성된 프레임을 씌워주는 기능
-- 텔레그램 봇
+- Telegram Bot
   - KimpBot
     - https://github.com/C4NU/KimpBot.git
   - Hetzner Traffic Alert Bot
     - https://github.com/C4NU/Hetzner-Traffic-Alert-Bot.git
-- Validators
+- Noderunner
   - Dymension
-    - https://github.com/C4NU/rollapp-registry    
+    - https://github.com/C4NU/rollapp-registry
+  - Avail, Near

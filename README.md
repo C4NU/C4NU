@@ -39,4 +39,6 @@ Here are some ideas to get you started:
 - Noderunner
   - Dymension
     - https://github.com/C4NU/rollapp-registry
-  - Avail, Near
+  - Avail
+  - Near
+  - Nillion

@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ## Toy Projects
 
 - 프로그램
-  - Paddie。
-    - [https://github.com/C4NU/Paddie.git](https://github.com/C4NU/Paddie)
+  - [Paddie。](https://github.com/C4NU/Paddie)
     - 최신버전
       - v3.1.0-stable
     - 빌드시 필요 패키지

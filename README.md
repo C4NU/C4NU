@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 프로그램
   - [Paddie。](https://github.com/C4NU/Paddie)
     - 최신버전
-      - [v3.4.0](https://github.com/C4NU/Paddie/releases/tag/v3.4.0)
+      - [v3.4.1](https://github.com/C4NU/Paddie/releases/tag/v3.4.1)
     - 기능
       - JPG, PNG, TIFF 등의 이미지 파일을 WebP로 변환해주는 기능
       - 사진의 EXIF 데이터를 입력받아 EXIF 데이터가 작성된 프레임을 씌워주는 기능

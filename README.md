@@ -1,39 +1,53 @@
-# Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=250&section=header&text=Hello,%20I'm%20C4NU&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Developer%20%26%20Node%20Runner&descAlignY=55&descAlign=62" />
+</div>
+
+<br>
+
+<div align="center">
+  
+### 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<br>
+<br>
+
+### 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=C4NU&show_icons=true&theme=radical" height="150" alt="C4NU's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4NU&layout=compact&theme=radical&hide=html,css" height="150" alt="Top Langs" />
+
+</div>
+
+<br>
+
+## 🚀 Toy Projects
+
+### Applications
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **Paddie** | • 이미지 파일(JPG, PNG, TIFF 등)을 WebP로 변환<br>• 사진의 EXIF 데이터를 활용한 프레임 합성 기능 | [Repository](https://github.com/C4NU/Paddie) <br> [Latest Release](https://github.com/C4NU/Paddie/releases/latest) |
+
+### Telegram Bots
+| Bot Name | Description | Links |
+| :--- | :--- | :--- |
+| **KimpBot** | 암호화폐 김치 프리미엄 확인 봇 | [Repository](https://github.com/C4NU/KimpBot.git) |
+| **Hetzner Traffic Alert** | 봇 트래픽 알림 및 모니터링 | [Repository](https://github.com/C4NU/Hetzner-Traffic-Alert-Bot.git) |
+
+<br>
+
+## 🌐 Node Running
+| Network | Status | Links |
+| :--- | :---: | :--- |
+| **Dymension** | Active | [Rollapp Registry](https://github.com/C4NU/rollapp-registry) |
+| **Avail** | Active | - |
+| **Near** | Active | - |
+| **Nillion** | Active | - |
+
+<br>
 
 <!--
-**C4NU/C4NU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📫 Contact
+- Email: your-email@example.com
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C4NU&show_icons=true&theme=radical)
-
-## Toy Projects
-
-- 프로그램
-  - [Paddie。](https://github.com/C4NU/Paddie)
-    - 최신버전
-      - [v3.4.1](https://github.com/C4NU/Paddie/releases/tag/v3.4.1)
-    - 기능
-      - JPG, PNG, TIFF 등의 이미지 파일을 WebP로 변환해주는 기능
-      - 사진의 EXIF 데이터를 입력받아 EXIF 데이터가 작성된 프레임을 씌워주는 기능
-- Telegram Bot
-  - KimpBot
-    - https://github.com/C4NU/KimpBot.git
-  - Hetzner Traffic Alert Bot
-    - https://github.com/C4NU/Hetzner-Traffic-Alert-Bot.git
-- Noderunner
-  - Dymension
-    - https://github.com/C4NU/rollapp-registry
-  - Avail
-  - Near
-  - Nillion

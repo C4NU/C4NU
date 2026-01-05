@@ -24,6 +24,11 @@
 
 ## 🚀 Toy Projects
 
+### Web Apps
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **하나비 스케줄** |  | [Repository](https://github.com/C4NU/hanavi_schedule) <br> [Latest Release](https://hanavi-schedule.vercel.app) |
+
 ### Applications
 | Project | Description | Links |
 | :--- | :--- | :--- |

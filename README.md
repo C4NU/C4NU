@@ -45,10 +45,10 @@
 ## 🌐 Node Running
 | Network | Status | Links |
 | :--- | :---: | :--- |
-| **Dymension** | Active | [Rollapp Registry](https://github.com/C4NU/rollapp-registry) |
-| **Avail** | Active | - |
-| **Near** | Active | - |
-| **Nillion** | Active | - |
+| **Dymension** | Non-Active | [Rollapp Registry](https://github.com/C4NU/rollapp-registry) |
+| **Avail** | Non-Active | - |
+| **Near** | Non-Active | - |
+| **Nillion** | Non-Active | - |
 
 <br>
 

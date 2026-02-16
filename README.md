@@ -29,6 +29,14 @@
 | :--- | :--- | :--- |
 | **하나비 스케줄** |  | [Repository](https://github.com/C4NU/hanavi_schedule) <br> [Latest Release](https://hanavi-schedule.vercel.app) |
 
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **CRIME SEASON** |  | [Repository]() <br> [Latest Release](https://binance-bitget-aggregator.vercel.app) |
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **APPLE TV SUBTITLE FILTER** |  | [Repository]() <br> [Latest Release]() |
+
 ### Applications
 | Project | Description | Links |
 | :--- | :--- | :--- |

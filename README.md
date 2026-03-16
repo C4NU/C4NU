@@ -27,7 +27,7 @@
 ### Web Apps
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **하나비 스케줄** |  | [Repository](https://github.com/C4NU/hanavi_schedule) <br> [Latest Release](https://hanavi-schedule.vercel.app) |
+| **하나비 스케줄** | 하나비 유니버스의 방송 스케줄을 실시간으로 업데이트 받을 수 있는 웹 앱. | [Repository](https://github.com/C4NU/hanavi_schedule) <br> [Latest Release](https://hanavi-schedule.vercel.app) |
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
